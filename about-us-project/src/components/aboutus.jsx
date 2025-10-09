@@ -25,10 +25,7 @@ const AboutUs = () => {
 
               <div className="row mb-5">
                 <div className="mb-5 mb-sm-4 col-md-4">
-                  <img
-                    src="../img/ава.jpg"
-                    alt="Colorful Wall"
-                  />
+                  
                 </div>
                 <div className="col-md-8">
                   <div className="about__text mb-5 mb-sm-4 mb-md-4">

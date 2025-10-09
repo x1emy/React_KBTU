@@ -1,0 +1,28 @@
+.list-container {
+  text-align: center;
+  margin: 20px auto;
+}
+
+.load-btn {
+  padding: 10px 20px;
+  margin-bottom: 20px;
+  background-color: #2e7d32;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.load-btn:hover {
+  background-color: #1b5e20;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 20px;
+}
